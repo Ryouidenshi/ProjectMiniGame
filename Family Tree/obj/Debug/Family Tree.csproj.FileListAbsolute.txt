@@ -1,0 +1,6 @@
+C:\Users\Stas74\source\repos\Family Tree\obj\Debug\Family Tree.csprojAssemblyReference.cache
+C:\Users\Stas74\source\repos\Family Tree\bin\Debug\Family Tree.exe.config
+C:\Users\Stas74\source\repos\Family Tree\bin\Debug\Family Tree.exe
+C:\Users\Stas74\source\repos\Family Tree\bin\Debug\Family Tree.pdb
+C:\Users\Stas74\source\repos\Family Tree\obj\Debug\Family Tree.exe
+C:\Users\Stas74\source\repos\Family Tree\obj\Debug\Family Tree.pdb
