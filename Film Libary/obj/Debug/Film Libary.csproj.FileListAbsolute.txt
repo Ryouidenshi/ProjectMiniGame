@@ -1,0 +1,6 @@
+C:\Users\Stas74\source\repos\Film Libary\bin\Debug\Film Libary.exe.config
+C:\Users\Stas74\source\repos\Film Libary\bin\Debug\Film Libary.exe
+C:\Users\Stas74\source\repos\Film Libary\bin\Debug\Film Libary.pdb
+C:\Users\Stas74\source\repos\Film Libary\obj\Debug\Film Libary.csprojAssemblyReference.cache
+C:\Users\Stas74\source\repos\Film Libary\obj\Debug\Film Libary.exe
+C:\Users\Stas74\source\repos\Film Libary\obj\Debug\Film Libary.pdb
