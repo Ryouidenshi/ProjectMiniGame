@@ -1,0 +1,7 @@
+C:\Users\Stas74\Desktop\MathCommand\bin\Debug\16_05.exe.config
+C:\Users\Stas74\Desktop\MathCommand\bin\Debug\16_05.exe
+C:\Users\Stas74\Desktop\MathCommand\bin\Debug\16_05.pdb
+C:\Users\Stas74\Desktop\MathCommand\obj\Debug\MathCommands.csprojAssemblyReference.cache
+C:\Users\Stas74\Desktop\MathCommand\obj\Debug\MathCommands.csproj.CoreCompileInputs.cache
+C:\Users\Stas74\Desktop\MathCommand\obj\Debug\16_05.exe
+C:\Users\Stas74\Desktop\MathCommand\obj\Debug\16_05.pdb
